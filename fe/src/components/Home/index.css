@@ -1,0 +1,26 @@
+.home-option{
+    border: 1px solid rgb(239, 233, 233);
+    border-radius: 1em;
+    box-shadow: 5px 5px 5px gray;
+    padding: 5%;
+    margin: 3%;
+    cursor: pointer;
+    background-color: #45474B;
+    color: #ECDBBA;
+    transition: 0.1s ease-in;
+    height: 100%;
+    width: auto;
+
+    
+}
+.home-option-icon{
+font-size: 10em;
+margin-top: 5%;
+
+}
+.home-option:hover{
+   
+    background-color: #ECDBBA;
+    color: #45474B;
+    
+}
